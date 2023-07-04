@@ -1,0 +1,10 @@
+name,8,str
+flags,1
+price,2
+itemtype,1
+equippable,1
+damage_types,1, holy,fire,ice,jolt,dark,spear,projectile,crush
+weight,1
+power,1
+
+

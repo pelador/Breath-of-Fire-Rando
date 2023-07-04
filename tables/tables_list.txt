@@ -1,0 +1,19 @@
+# objname tablefile address count grouped
+InitialObject   initial_table.txt   4f7     36
+CharacterObject character_table.txt 87c     11
+GraphicsObject  graphics_table.txt  ce37    200
+Unknown2Object  unknown2_table.txt  30000   42      pointed 30000   2
+UnknownObject   unknown_table.txt   30080   664     pointed 30000   2
+# ShopObject                        3fac0
+DropObject      drop_table.txt      54b40   64
+ZoneObject      zone_table.txt      55668   64
+LevelUpObject   levelup_table.txt   571b0   9
+FormationObject formation_table.txt 57df0   256
+FormDataObject  formdata_table.txt  5ab00   255     point1  5ad00   2
+SpellObject     spell_table.txt     584f0   84
+MonsterObject   monster_table.txt   59000   200
+# LearnObject                       5aa00
+DresserObject   dresser_table.txt   5b948   186     grouped
+ChestObject     chest_table.txt     63d3a   160
+ItemObject      item_table.txt      70000   256
+PaletteObject   palette_table.txt   86200   460
