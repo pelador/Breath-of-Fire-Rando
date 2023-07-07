@@ -58,6 +58,7 @@
     <Compile Include="Inventory\GameObject.cs" />
     <Compile Include="Inventory\Weapons.cs" />
     <Compile Include="Inventory\Items.cs" />
+    <Compile Include="Monsters\Monsters.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="BreathofFireRando.resx">

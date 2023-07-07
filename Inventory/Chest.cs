@@ -52,7 +52,7 @@ namespace BreathofFireRandomiser.Inventory
 
         {
 
-            int choice = r.Next(1, 3);
+            int choice = r.Next(1, 4);
 
             GameObject a=Items.GetRandomValid(r);
 
